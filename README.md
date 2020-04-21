@@ -1,5 +1,5 @@
 # GPflow_pyusergroup
-gpflow example notebooks for Columbia python user group.  Notebooks
+Gpflow example notebook for Columbia python user group.  Notebooks
 modified from https://github.com/GPflow/GPflow
 
 ### Install Instructions
